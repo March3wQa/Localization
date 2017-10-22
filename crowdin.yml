@@ -1,0 +1,6 @@
+files:
+  - source: /Items/en/Items.archive
+    translation: /Items/%language%/Items.archive
+    languages_mapping:
+      language:
+        pl: pl-PL
